@@ -1,29 +1,10 @@
-# Cars Dealership Web Application
+# Fullstack Developer Capstone
 
-## 📌 Project Overview
-This is a full-stack web application for a car dealership company. The application allows users to view car dealerships, see dealer details, and submit reviews.
+This project is part of the Fullstack Developer Capstone project.
 
----
+Repository Name: xrwvm-fullstack_developer_capstone
 
-## 🚀 Technologies Used
-- Frontend: React.js
-- Backend: Django (Python)
-- API Server: Node.js (Express)
-- Database: SQLite
-- Deployment: Render / IBM Cloud
+Project Name: Fullstack Developer Capstone
 
----
-
-## 🔧 Features
-- User Login and Logout
-- User Registration (Sign Up)
-- View all car dealerships
-- Filter dealers by state
-- View dealer details and reviews
-- Add new reviews
-- Sentiment analysis for reviews
-- Admin panel for managing data
-
----
-
-## 📂 Project Structure
+Description:
+This project is a car dealership web application built using React, Django, Node.js, and MongoDB. It allows users to view dealerships and submit reviews.
